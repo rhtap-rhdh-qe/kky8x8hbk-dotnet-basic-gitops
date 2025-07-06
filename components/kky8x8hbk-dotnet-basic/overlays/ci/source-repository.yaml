@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kky8x8hbk-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/kky8x8hbk-dotnet-basic
